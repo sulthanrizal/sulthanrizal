@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -16,14 +16,28 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
+      # 1) Kartu stats, top languages, dan grafik aktivitas (dibuat dulu supaya folder dist dimiliki runner)
+      - name: Generate stats cards
+        continue-on-error: true
+        run: python3 scripts/gen_stats.py
+        env:
+          GH_TOKEN: ${{ secrets.SNAKE_TOKEN || github.token }}
+          GH_USER: ${{ github.repository_owner }}
+          OUT_DIR: dist
+
+      # 2) Animasi ular
       - name: Generate snake SVG from contribution graph
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          github_token: ${{ secrets.SNAKE_TOKEN }}
+          github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      # 3) Kirim semuanya ke branch output
       - name: Push SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
