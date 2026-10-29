@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://suri-porto.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Crafting+interfaces+that+feel+alive+%E2%9C%A8;React.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;Frontend+Intern+%40+PT+TOG+Indonesia;CS+Student+%40+Universitas+Cakrawala" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Crafting+interfaces+that+feel+alive+%E2%9C%A8;React.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;CS+Student+%40+Universitas+Cakrawala" alt="Typing SVG" />
   </a>
 </p>
 
