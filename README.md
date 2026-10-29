@@ -29,7 +29,7 @@ I'm a fourth-semester Computer Science student at **Universitas Cakrawala** with
 ```js
 const sulthan = {
   role: "Software Developer | Frontend Developer",
-  basedIn: "Jakarta, Indonesia",
+  basedIn: "Bogor, Indonesia",
   education: "Computer Science @ Universitas Cakrawala (2024 — 2028)",
   primaryStack: ["React.js", "TypeScript", "Tailwind CSS", "Express.js", "Prisma"],
   currentFocus: ["Responsive web apps", "Dashboards", "Clean & smooth UI"],
