@@ -111,12 +111,12 @@ Mobile application for qurban services: UI design and core components, with API 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sulthanrizal&bg_color=06060e&color=c0caf5&line=4f46e5&point=06b6d4&area=true&area_color=4f46e5&hide_border=true&custom_title=Commit%20Activity" width="100%" alt="Contribution activity graph" />
+  <img src="https://raw.githubusercontent.com/sulthanrizal/sulthanrizal/output/activity.svg" width="100%" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulthanrizal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=06060e&title_color=06b6d4&icon_color=4f46e5" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulthanrizal&layout=compact&theme=tokyonight&hide_border=true&bg_color=06060e&title_color=06b6d4" height="170" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/sulthanrizal/sulthanrizal/output/stats.svg" width="49%" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/sulthanrizal/sulthanrizal/output/langs.svg" width="49%" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -132,4 +132,3 @@ Mobile application for qurban services: UI design and core components, with API 
 - Portfolio: [suri-porto.vercel.app](https://suri-porto.vercel.app/)
 - CV: [Google Drive](https://drive.google.com/file/d/1WANwpuYSAZQMYz5WYG_I8L0SKkNZ8qED/view?usp=sharing)
 - GitHub: [@sulthanrizal](https://github.com/sulthanrizal)
-
