@@ -109,13 +109,6 @@ Mobile application for qurban services: UI design and core components, with API 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulthanrizal&theme=github" alt="Contribution graph" />
 
-## What I Enjoy Building
-
-- Responsive landing pages and organization / event websites
-- Admin dashboards and internal tools
-- Reusable, dynamic UI components
-- Fullstack web apps with clean API integration
-
 ## Contact
 
 - Portfolio: [suri-porto.vercel.app](https://suri-porto.vercel.app/)
