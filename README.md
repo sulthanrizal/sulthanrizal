@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:06060e,50:4f46e5,100:06b6d4&text=Sulthan%20Rizal%20Halfa%20'Ilmi&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Software%20Developer%20%7C%20Frontend%20Developer%20%7C%20Jakarta,%20Indonesia&descAlignY=57&descSize=16&animation=fadeIn" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:06060e,45:4f46e5,100:06b6d4&text=Sulthan%20Rizal&fontSize=72&fontColor=ffffff&fontAlignY=40&animation=twinkling&stroke=06b6d4&strokeWidth=1&desc=Software%20Developer%20%E2%80%A2%20Frontend%20Developer%20%E2%80%A2%20Jakarta,%20Indonesia&descSize=18&descAlignY=62" width="100%" alt="Header banner" />
+</p>
+
+<p align="center">
+  <a href="https://suri-porto.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Crafting+interfaces+that+feel+alive+%E2%9C%A8;React.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;Frontend+Intern+%40+PT+TOG+Indonesia;CS+Student+%40+Universitas+Cakrawala" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -11,8 +17,6 @@
   -->
   <a href="https://github.com/sulthanrizal"><img src="https://komarev.com/ghpvc/?username=sulthanrizal&label=Profile%20Views&color=4f46e5&style=flat-square" alt="Profile views" /></a>
 </p>
-
-<h3 align="center">Crafting interfaces that feel alive.</h3>
 
 ## About
 
@@ -29,7 +33,7 @@ I'm a fourth-semester Computer Science student at **Universitas Cakrawala** with
 ```js
 const sulthan = {
   role: "Software Developer | Frontend Developer",
-  basedIn: "Bogor, Indonesia",
+  basedIn: "Jakarta, Indonesia",
   education: "Computer Science @ Universitas Cakrawala (2024 — 2028)",
   primaryStack: ["React.js", "TypeScript", "Tailwind CSS", "Express.js", "Prisma"],
   currentFocus: ["Responsive web apps", "Dashboards", "Clean & smooth UI"],
@@ -102,12 +106,26 @@ Mobile application for qurban services: UI design and core components, with API 
 
 ## GitHub Overview
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sulthanrizal&show_icons=true&hide_border=true&title_color=4f46e5&icon_color=06b6d4&text_color=334155&bg_color=ffffff" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulthanrizal&layout=compact&hide_border=true&title_color=4f46e5&text_color=334155&bg_color=ffffff" alt="Top languages" height="165" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sulthanrizal&theme=tokyonight&hide_border=true&background=06060E&ring=4F46E5&fire=06B6D4&currStreakLabel=06B6D4&date_format=j%20M%5B%20Y%5D" width="100%" alt="GitHub streak" />
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sulthanrizal&theme=github" alt="Contribution graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sulthanrizal&bg_color=06060e&color=c0caf5&line=4f46e5&point=06b6d4&area=true&area_color=4f46e5&hide_border=true&custom_title=Commit%20Activity" width="100%" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sulthanrizal&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=06060e&title_color=06b6d4&icon_color=4f46e5" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulthanrizal&layout=compact&theme=tokyonight&hide_border=true&bg_color=06060e&title_color=06b6d4" height="170" alt="Top languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sulthanrizal/sulthanrizal/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sulthanrizal/sulthanrizal/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/sulthanrizal/sulthanrizal/output/github-snake-dark.svg" alt="Snake eating my contributions" />
+  </picture>
+</p>
 
 ## Contact
 
@@ -119,4 +137,4 @@ Mobile application for qurban services: UI design and core components, with API 
 
 <p align="center"><i>Clean UI. Smooth UX. Consistent progress.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:06b6d4,50:4f46e5,100:06060e&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:06b6d4,55:4f46e5,100:06060e&section=footer&reversal=true&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%" alt="Footer" />
