@@ -3,6 +3,12 @@
 </p> <p align="center"> <a href="https://suri-porto.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-06060e?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://drive.google.com/file/d/1WANwpuYSAZQMYz5WYG_I8L0SKkNZ8qED/view?usp=sharing"><img src="https://img.shields.io/badge/CV-Download-4f46e5?style=flat-square&logo=googledrive&logoColor=white" alt="CV" /></a> <!-- Hapus tanda komentar dan isi link-mu kalau mau menampilkan LinkedIn / Email: <a href="https://www.linkedin.com/in/USERNAME-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Sulthan%20Rizal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:EMAIL-KAMU@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> --> <a href="https://github.com/sulthanrizal"><img src="https://komarev.com/ghpvc/?username=sulthanrizal&label=Profile%20Views&color=4f46e5&style=flat-square" alt="Profile views" /></a> </p>
 
 <p align="center">
+  <a href="https://suri-porto.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Crafting+interfaces+that+feel+alive+%E2%9C%A8;React.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;CS+Student+%40+Universitas+Cakrawala" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://suri-porto.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-06060e?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://drive.google.com/file/d/1WANwpuYSAZQMYz5WYG_I8L0SKkNZ8qED/view?usp=sharing"><img src="https://img.shields.io/badge/CV-Download-4f46e5?style=flat-square&logo=googledrive&logoColor=white" alt="CV" /></a>
   <!-- Hapus tanda komentar dan isi link-mu kalau mau menampilkan LinkedIn / Email:
