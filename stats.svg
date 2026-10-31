@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="205" viewBox="0 0 495 205" role="img" aria-label="GitHub Stats">
+<defs>
+<linearGradient id="bds" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#6366f1"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+<linearGradient id="tts" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+<linearGradient id="bgs" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05050c"/><stop offset="1" stop-color="#0a0a1f"/></linearGradient>
+</defs>
+<style>
+text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.t{font-size:19px;font-weight:700;fill:url(#tts)}
+.s{font-size:12px;fill:#64748b}
+.l{font-size:14px;fill:#94a3b8}
+.v{font-size:15px;font-weight:700;fill:#e2e8f0}
+.fi{opacity:0;animation:fi .6s ease-out forwards}
+@keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+</style>
+<rect x=".75" y=".75" width="493.5" height="203.5" rx="14" fill="url(#bgs)" stroke="url(#bds)" stroke-opacity=".55" stroke-width="1.5"/>
+<text x="28" y="40" class="t">GitHub Stats</text>
+<text x="467" y="39" class="s" text-anchor="end">last 12 months</text>
+<g class="fi" style="animation-delay:0.15s"><circle cx="33" cy="79" r="4.5" fill="#22d3ee"/><text x="46" y="84" class="l">Contributions</text><text x="232" y="84" class="v" text-anchor="end">1,054</text></g>
+<g class="fi" style="animation-delay:0.24s"><circle cx="33" cy="115" r="4.5" fill="#818cf8"/><text x="46" y="120" class="l">Commits</text><text x="232" y="120" class="v" text-anchor="end">1,037</text></g>
+<g class="fi" style="animation-delay:0.33s"><circle cx="33" cy="151" r="4.5" fill="#c084fc"/><text x="46" y="156" class="l">Pull Requests</text><text x="232" y="156" class="v" text-anchor="end">6</text></g>
+<g class="fi" style="animation-delay:0.42s"><circle cx="33" cy="187" r="4.5" fill="#f472b6"/><text x="46" y="192" class="l">Code Reviews</text><text x="232" y="192" class="v" text-anchor="end">0</text></g>
+<g class="fi" style="animation-delay:0.51s"><circle cx="267" cy="79" r="4.5" fill="#34d399"/><text x="280" y="84" class="l">Issues</text><text x="467" y="84" class="v" text-anchor="end">0</text></g>
+<g class="fi" style="animation-delay:0.60s"><circle cx="267" cy="115" r="4.5" fill="#fbbf24"/><text x="280" y="120" class="l">Stars Earned</text><text x="467" y="120" class="v" text-anchor="end">2</text></g>
+<g class="fi" style="animation-delay:0.69s"><circle cx="267" cy="151" r="4.5" fill="#60a5fa"/><text x="280" y="156" class="l">Repositories</text><text x="467" y="156" class="v" text-anchor="end">34</text></g>
+<g class="fi" style="animation-delay:0.78s"><circle cx="267" cy="187" r="4.5" fill="#fb923c"/><text x="280" y="192" class="l">Followers</text><text x="467" y="192" class="v" text-anchor="end">17</text></g>
+</svg>
