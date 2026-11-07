@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="205" viewBox="0 0 495 205" role="img" aria-label="Top Languages">
+<defs>
+<linearGradient id="bdl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#6366f1"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+<linearGradient id="ttl" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+<linearGradient id="bgl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05050c"/><stop offset="1" stop-color="#0a0a1f"/></linearGradient>
+</defs>
+<style>
+text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.t{font-size:19px;font-weight:700;fill:url(#ttl)}
+.s{font-size:12px;fill:#64748b}
+.l{font-size:14px;fill:#94a3b8}
+.v{font-size:15px;font-weight:700;fill:#e2e8f0}
+.fi{opacity:0;animation:fi .6s ease-out forwards}
+@keyframes fi{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+</style>
+<rect x=".75" y=".75" width="493.5" height="203.5" rx="14" fill="url(#bgl)" stroke="url(#bdl)" stroke-opacity=".55" stroke-width="1.5"/>
+<text x="28" y="40" class="t">Top Languages</text>
+<text x="467" y="39" class="s" text-anchor="end">by code size</text>
+<g class="fi" style="animation-delay:0.15s"><text x="28" y="84" class="l">JavaScript</text><rect x="130" y="74" width="245" height="10" rx="5" fill="#ffffff" fill-opacity=".06"/><rect x="130" y="74" width="0" height="10" rx="5" fill="#f1e05a"><animate attributeName="width" from="0" to="245.0" dur="1s" begin="0.25s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect><text x="467" y="84" class="v" text-anchor="end" style="font-size:13px">55.6%</text></g>
+<g class="fi" style="animation-delay:0.25s"><text x="28" y="104" class="l">SCSS</text><rect x="130" y="94" width="245" height="10" rx="5" fill="#ffffff" fill-opacity=".06"/><rect x="130" y="94" width="0" height="10" rx="5" fill="#c6538c"><animate attributeName="width" from="0" to="51.8" dur="1s" begin="0.35s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect><text x="467" y="104" class="v" text-anchor="end" style="font-size:13px">11.8%</text></g>
+<g class="fi" style="animation-delay:0.35s"><text x="28" y="124" class="l">CSS</text><rect x="130" y="114" width="245" height="10" rx="5" fill="#ffffff" fill-opacity=".06"/><rect x="130" y="114" width="0" height="10" rx="5" fill="#663399"><animate attributeName="width" from="0" to="46.5" dur="1s" begin="0.45s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect><text x="467" y="124" class="v" text-anchor="end" style="font-size:13px">10.6%</text></g>
+<g class="fi" style="animation-delay:0.45s"><text x="28" y="144" class="l">Jupyter Notebook</text><rect x="130" y="134" width="245" height="10" rx="5" fill="#ffffff" fill-opacity=".06"/><rect x="130" y="134" width="0" height="10" rx="5" fill="#DA5B0B"><animate attributeName="width" from="0" to="28.3" dur="1s" begin="0.55s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect><text x="467" y="144" class="v" text-anchor="end" style="font-size:13px">6.4%</text></g>
+<g class="fi" style="animation-delay:0.55s"><text x="28" y="164" class="l">EJS</text><rect x="130" y="154" width="245" height="10" rx="5" fill="#ffffff" fill-opacity=".06"/><rect x="130" y="154" width="0" height="10" rx="5" fill="#a91e50"><animate attributeName="width" from="0" to="19.0" dur="1s" begin="0.65s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect><text x="467" y="164" class="v" text-anchor="end" style="font-size:13px">4.3%</text></g>
+<g class="fi" style="animation-delay:0.65s"><text x="28" y="184" class="l">HTML</text><rect x="130" y="174" width="245" height="10" rx="5" fill="#ffffff" fill-opacity=".06"/><rect x="130" y="174" width="0" height="10" rx="5" fill="#e34c26"><animate attributeName="width" from="0" to="17.5" dur="1s" begin="0.75s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".2 .8 .2 1"/></rect><text x="467" y="184" class="v" text-anchor="end" style="font-size:13px">4.0%</text></g>
+</svg>
